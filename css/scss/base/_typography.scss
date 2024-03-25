@@ -1,0 +1,68 @@
+.headline{
+    font-family: "Alegreya", serif;
+    font-size: 76px;
+    font-weight: 400;
+    font-style: normal;
+    color: #ffffff;
+}
+
+.description{
+    font-family: "Alegreya Sans", serif;
+    font-size: 24px;
+    font-weight: 400;
+    font-style: normal;
+    color: #ffffff;
+}
+
+.title{
+    font-family: "Alegreya", serif;
+    font-size: 32px;
+    font-weight: 400;
+    font-style: normal;
+    color: #303030;
+    margin-bottom: 20px;
+}
+
+.info_desc{
+    font-family: "Alegreya Sans", serif;
+    font-size: 17px;
+    font-weight: 400;
+    font-style: normal;
+    color: #686868;
+    line-height: 32px;
+}
+
+.head_footer{
+    font-family: "Alegreya", serif;
+    font-size: 18px;
+    font-weight: 400;
+    font-style: normal;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+.p_footer, .p_about{
+    font-family: "Alegreya Sans", serif;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+    color: #969696;
+    line-height: 32px;
+    padding: 10px 0px;
+}
+
+.p_footer{
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.p_copyright{
+    font-family: "Alegreya Sans", serif;
+    font-size: 15px;
+    font-weight: 400;
+    font-style: normal;
+    color: #777777 
+}
+
+.border_remove{
+    border-bottom:none;
+}

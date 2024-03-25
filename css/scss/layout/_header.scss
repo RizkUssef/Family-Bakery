@@ -1,0 +1,23 @@
+.header {
+  padding: 10px 0px;
+  position: relative;
+  background-color: transparent;
+  z-index: 10;
+  .logo {
+    width: 177px;
+    display: inline-block;
+  }
+  .links {
+    margin-left: 500px;
+    display: inline-block;
+    position: absolute;
+    top: 34%;
+    .list_link {
+      margin-right: 20px;
+      display: inline-block;
+    }
+    .list_link_active {
+      border-top: 2px solid #8f7854;
+    }
+  }
+}
